@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "gitpod-expo-template",
-    "slug": "gitpod-expo-template",
+    "name": "novo_exemplo",
+    "slug": "novo_exemplo",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
